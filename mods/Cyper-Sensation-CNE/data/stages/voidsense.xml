@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.6" name="room" folder="stages/nonsense/break">
+   
+    <sprite name="bg" x="-200" y="-200" sprite="BlackBG" scroll="0.2" scale="1.5"/>
+    <sprite name="bg2" x="-200" y="-200" sprite="BlackBG" scroll="0.1" scale="1.5"/>
+    <sprite name="bg3" x="-200" y="-200" sprite="BlackBG" scroll="0.05" scale="1.5"/>
+    
+    <sprite name="debrisback" sprite="Debris_Back" x="1200" y="680" scroll="0.8" />
+    <sprite name="debris2" sprite="Debris" x="450" y="800" />
+    <sprite name="debris" sprite="Debris" x="1920" y="950" />
+
+
+    <boyfriend x="2000" y="300" />
+    <dad x="600" y="300" />
+</stage>

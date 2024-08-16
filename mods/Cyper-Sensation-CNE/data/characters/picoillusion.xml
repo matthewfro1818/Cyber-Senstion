@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character> <!--Character Converter -->
+<character isPlayer="false" x="-50" y="240" icon="pico" flipX="false" camx="170" camy="-20" holdTime="4" scale="1">
+	<anim name="idle" anim="Pico Idle Dance" fps="24" loop="false" x="0" y="0" indices="[]"/>
+	<anim name="singLEFT" anim="Pico left" fps="24" loop="false" x="0" y="0" indices="[]"/>
+	<anim name="singRIGHT" anim="Pico right" fps="24" loop="false" x="0" y="0" indices="[]"/>
+	<anim name="singUP" anim="Pico up" fps="24" loop="false" x="0" y="0" indices="[]"/>
+	<anim name="singDOWN" anim="Pico down" fps="24" loop="false" x="0" y="0" indices="[]"/>
+</character>

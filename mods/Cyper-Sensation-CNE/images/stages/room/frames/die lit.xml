@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="die lit.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="homer0000" x="0" y="0" width="278" height="498" pivotX="0" pivotY="0"/>
+	<SubTexture name="homer0001" x="0" y="0" width="278" height="498"/>
+	<SubTexture name="homer0002" x="278" y="0" width="278" height="498"/>
+	<SubTexture name="homer0003" x="278" y="0" width="278" height="498"/>
+	<SubTexture name="homer0004" x="556" y="0" width="278" height="498"/>
+	<SubTexture name="homer0005" x="556" y="0" width="278" height="498"/>
+	<SubTexture name="homer0006" x="834" y="0" width="278" height="498"/>
+	<SubTexture name="homer0007" x="834" y="0" width="278" height="498"/>
+	<SubTexture name="homer0008" x="1112" y="0" width="278" height="498"/>
+	<SubTexture name="homer0009" x="1112" y="0" width="278" height="498"/>
+	<SubTexture name="homer0010" x="1390" y="0" width="278" height="498"/>
+	<SubTexture name="homer0011" x="1390" y="0" width="278" height="498"/>
+	<SubTexture name="homer0012" x="1668" y="0" width="278" height="498"/>
+	<SubTexture name="homer0013" x="1668" y="0" width="278" height="498"/>
+	<SubTexture name="homer0014" x="0" y="498" width="278" height="498"/>
+	<SubTexture name="homer0015" x="0" y="498" width="278" height="498"/>
+	<SubTexture name="homer0016" x="278" y="498" width="278" height="498"/>
+	<SubTexture name="homer0017" x="278" y="498" width="278" height="498"/>
+	<SubTexture name="homer0018" x="556" y="498" width="278" height="498"/>
+	<SubTexture name="homer0019" x="556" y="498" width="278" height="498"/>
+	<SubTexture name="homer0020" x="834" y="498" width="278" height="498"/>
+	<SubTexture name="homer0021" x="834" y="498" width="278" height="498"/>
+	<SubTexture name="homer0022" x="1112" y="498" width="278" height="498"/>
+	<SubTexture name="homer0023" x="1112" y="498" width="278" height="498"/>
+	<SubTexture name="homer0024" x="1390" y="498" width="278" height="498"/>
+	<SubTexture name="homer0025" x="1390" y="498" width="278" height="498"/>
+	<SubTexture name="homer0026" x="1668" y="498" width="278" height="498"/>
+	<SubTexture name="homer0027" x="1668" y="498" width="278" height="498"/>
+	<SubTexture name="homer0028" x="0" y="996" width="278" height="498"/>
+	<SubTexture name="homer0029" x="0" y="996" width="278" height="498"/>
+	<SubTexture name="homer0030" x="278" y="996" width="278" height="498"/>
+	<SubTexture name="homer0031" x="278" y="996" width="278" height="498"/>
+	<SubTexture name="homer0032" x="556" y="996" width="278" height="498"/>
+	<SubTexture name="homer0033" x="556" y="996" width="278" height="498"/>
+	<SubTexture name="homer0034" x="834" y="996" width="278" height="498"/>
+	<SubTexture name="homer0035" x="834" y="996" width="278" height="498"/>
+	<SubTexture name="homer0036" x="1112" y="996" width="278" height="498"/>
+	<SubTexture name="homer0037" x="1112" y="996" width="278" height="498"/>
+	<SubTexture name="homer0038" x="1390" y="996" width="278" height="498"/>
+	<SubTexture name="homer0039" x="1390" y="996" width="278" height="498"/>
+	<SubTexture name="homer0040" x="1668" y="996" width="278" height="498"/>
+	<SubTexture name="homer0041" x="1668" y="996" width="278" height="498"/>
+	<SubTexture name="homer0042" x="0" y="1494" width="278" height="498"/>
+	<SubTexture name="homer0043" x="0" y="1494" width="278" height="498"/>
+	<SubTexture name="homer0044" x="278" y="1494" width="278" height="498"/>
+	<SubTexture name="homer0045" x="278" y="1494" width="278" height="498"/>
+	<SubTexture name="homer0046" x="556" y="1494" width="278" height="498"/>
+	<SubTexture name="homer0047" x="556" y="1494" width="278" height="498"/>
+	<SubTexture name="homer0048" x="834" y="1494" width="278" height="498"/>
+	<SubTexture name="homer0049" x="834" y="1494" width="278" height="498"/>
+	<SubTexture name="homer0050" x="1112" y="1494" width="278" height="498"/>
+	<SubTexture name="homer0051" x="1112" y="1494" width="278" height="498"/>
+	<SubTexture name="homer0052" x="1390" y="1494" width="278" height="498"/>
+	<SubTexture name="homer0053" x="1390" y="1494" width="278" height="498"/>
+	<SubTexture name="homer0054" x="1668" y="1494" width="278" height="498"/>
+	<SubTexture name="homer0055" x="1668" y="1494" width="278" height="498"/>
+	<SubTexture name="homer0056" x="0" y="1992" width="278" height="498"/>
+	<SubTexture name="homer0057" x="0" y="1992" width="278" height="498"/>
+	<SubTexture name="homer0058" x="278" y="1992" width="278" height="498"/>
+	<SubTexture name="homer0059" x="278" y="1992" width="278" height="498"/>
+	<SubTexture name="homer0060" x="556" y="1992" width="278" height="498"/>
+	<SubTexture name="homer0061" x="556" y="1992" width="278" height="498"/>
+	<SubTexture name="homer0062" x="834" y="1992" width="278" height="498"/>
+	<SubTexture name="homer0063" x="834" y="1992" width="278" height="498"/>
+	<SubTexture name="homer0064" x="1112" y="1992" width="278" height="498"/>
+	<SubTexture name="homer0065" x="1112" y="1992" width="278" height="498"/>
+	<SubTexture name="homer0066" x="1390" y="1992" width="278" height="498"/>
+	<SubTexture name="homer0067" x="1390" y="1992" width="278" height="498"/>
+	<SubTexture name="homer0068" x="1668" y="1992" width="278" height="498"/>
+	<SubTexture name="homer0069" x="1668" y="1992" width="278" height="498"/>
+</TextureAtlas>

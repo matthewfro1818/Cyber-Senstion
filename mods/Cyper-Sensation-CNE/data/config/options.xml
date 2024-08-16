@@ -1,0 +1,19 @@
+<!DOCTYPE codename-mod-options>
+<!-- TEMPLATE FOR CUSTOM OPTIONS!!! -->
+<menu name="Language " desc="Select Your Language">
+	<checkbox id="useSubs" name="Subtitles" />
+	<choice id="useSub" name="Subtitles">
+	</choice>
+
+	<menu name="Language" desc="Subtitles Language">
+		<checkbox id="thaiSub" name="Thai" />
+	</menu>
+	
+	<menu name="MiddleScroll" desc="Middle Scroll Yeah">
+		<checkbox id="MiddleScroll" name="MiddleScroll" />
+	</menu>
+
+	<menu name="Dub" desc="Dub Language">
+		<checkbox id="thaiDub" name="Thai" />
+	</menu>
+</menu>

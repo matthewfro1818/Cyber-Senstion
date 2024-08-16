@@ -1,0 +1,11 @@
+<!-- HOLY SHIT ITS TAEYAI -->
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="6.1" icon="taeyai-evil" notesprite="taeyai">
+    <anim name="idle" anim="TaeYai fly 0" fps="24" loop="false" x="0" y="0" />
+
+    <anim name="singLEFT" anim="TaeYai fly left0" fps="24" loop="false" x="56" y="-30" />
+    <anim name="singDOWN" anim="TaeYai fly down0" fps="24" loop="false" x="20" y="-85" />
+    <anim name="singUP" anim="TaeYai fly up0" fps="24" loop="false" x="3" y="37" />
+    <anim name="singRIGHT" anim="TaeYai fly right0" fps="24" loop="false" x="-29" y="-2" />
+    <anim name="line" anim="TaeYai fly I do0" fps="24" loop="false" x="3" y="37" />
+</character>

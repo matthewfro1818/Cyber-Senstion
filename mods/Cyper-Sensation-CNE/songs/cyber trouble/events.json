@@ -1,0 +1,209 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "trioStage",
+		"player1": "bf",
+		"player2": "conner",
+		"player3": null,
+		"events": [
+			[
+				14794.5205479452,
+				[
+					[
+						"tailsjump",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106849.315068493,
+				[
+					[
+						"Change Character",
+						"dad",
+						"shadow taeyai"
+					]
+				]
+			],
+			[
+				106853.595890411,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-perspective-right"
+					]
+				]
+			],
+			[
+				133146.404109589,
+				[
+					[
+						"knuxjump",
+						"",
+						""
+					]
+				]
+			],
+			[
+				133150.684931507,
+				[
+					[
+						"Change Character",
+						"dad",
+						"daisy-wrath"
+					]
+				]
+			],
+			[
+				133154.965753425,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-mirror"
+					]
+				]
+			],
+			[
+				172602.739726028,
+				[
+					[
+						"knuxjump",
+						"",
+						""
+					]
+				]
+			],
+			[
+				236712.328767124,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"dad",
+						"shadow taeyai"
+					]
+				]
+			],
+			[
+				238360.44520548,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-perspective-left"
+					]
+				]
+			],
+			[
+				290954.623287672,
+				[
+					[
+						"eggjump",
+						"",
+						""
+					]
+				]
+			],
+			[
+				290958.904109589,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nonsense"
+					]
+				]
+			],
+			[
+				290962.66916983,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Change Character",
+						"dad",
+						"shadow taeyai"
+					]
+				]
+			],
+			[
+				452886.614952962,
+				[
+					[
+						"Change Character",
+						"dad",
+						"conner"
+					]
+				]
+			],
+			[
+				464452.880013202,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nonsense"
+					]
+				]
+			],
+			[
+				476019.145073443,
+				[
+					[
+						"Change Character",
+						"dad",
+						"daisy-wrath"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-mirror"
+					]
+				]
+			],
+			[
+				487585.410133684,
+				[
+					[
+						"Change Character",
+						"dad",
+						"shadow taeyai"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 146,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "cyber trouble"
+	}
+}

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character> <!--Character Converter -->
+<character isPlayer="false" x="-80" y="-100" icon="shini" flipX="false" camx="0" camy="130" holdTime="6.1" scale="0.8">
+	<anim name="singLEFT" anim="shini left" fps="24" loop="false" x="22" y="4" indices="[]"/>
+	<anim name="singDOWN" anim="shini down" fps="24" loop="false" x="-4" y="-79" indices="[]"/>
+	<anim name="singUP" anim="shini up" fps="24" loop="false" x="-34" y="37" indices="[]"/>
+	<anim name="singRIGHT" anim="shini right" fps="24" loop="false" x="-8" y="0" indices="[]"/>
+	<anim name="idle" anim="shini idle" fps="24" loop="false" x="0" y="0" indices="[]"/>
+</character>

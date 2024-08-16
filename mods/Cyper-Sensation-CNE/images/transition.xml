@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="transition.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="transin0000" x="10" y="10" width="0" height="0" frameX="-640" frameY="-360" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="transin0001" x="20" y="10" width="1280" height="720"/>
+	<SubTexture name="transin0002" x="1310" y="10" width="1280" height="720"/>
+	<SubTexture name="transin0003" x="2600" y="10" width="1280" height="720"/>
+	<SubTexture name="transin0004" x="3890" y="10" width="1280" height="720"/>
+	<SubTexture name="transin0005" x="5180" y="10" width="1280" height="720"/>
+	<SubTexture name="transin0006" x="6470" y="10" width="1280" height="720"/>
+	<SubTexture name="transin0007" x="10" y="740" width="1280" height="720"/>
+	<SubTexture name="transin0008" x="1300" y="740" width="1280" height="720"/>
+	<SubTexture name="transin0009" x="2590" y="740" width="1280" height="720"/>
+	<SubTexture name="transin0010" x="3880" y="740" width="1280" height="720"/>
+	<SubTexture name="transin0011" x="5170" y="740" width="1280" height="720"/>
+	<SubTexture name="transin0012" x="6460" y="740" width="1280" height="720"/>
+	<SubTexture name="transin0013" x="10" y="1470" width="1280" height="720"/>
+	<SubTexture name="transin0014" x="1300" y="1470" width="1280" height="720"/>
+	<SubTexture name="transin0015" x="2590" y="1470" width="1280" height="720"/>
+	<SubTexture name="transin0016" x="3880" y="1470" width="1280" height="720"/>
+	<SubTexture name="transin0017" x="5170" y="1470" width="1280" height="720"/>
+	<SubTexture name="transin0018" x="6460" y="1470" width="1280" height="720"/>
+	<SubTexture name="transin0019" x="10" y="2200" width="1280" height="720"/>
+	<SubTexture name="transin0020" x="1300" y="2200" width="1280" height="720"/>
+	<SubTexture name="transin0021" x="2590" y="2200" width="1280" height="720"/>
+	<SubTexture name="transin0022" x="3880" y="2200" width="1280" height="720"/>
+	<SubTexture name="transin0023" x="5170" y="2200" width="1280" height="720"/>
+	<SubTexture name="transin0024" x="6460" y="2200" width="1280" height="720"/>
+	<SubTexture name="transin0025" x="10" y="2930" width="1280" height="720"/>
+	<SubTexture name="transin0026" x="1300" y="2930" width="1280" height="720"/>
+	<SubTexture name="transout0000" x="2590" y="2930" width="1280" height="720"/>
+	<SubTexture name="transout0001" x="3880" y="2930" width="1280" height="720"/>
+	<SubTexture name="transout0002" x="5170" y="2930" width="1280" height="720"/>
+	<SubTexture name="transout0003" x="6460" y="2930" width="1280" height="720"/>
+	<SubTexture name="transout0004" x="10" y="3660" width="1280" height="720"/>
+	<SubTexture name="transout0005" x="1300" y="3660" width="1280" height="720"/>
+	<SubTexture name="transout0006" x="2590" y="3660" width="1280" height="720"/>
+	<SubTexture name="transout0007" x="3880" y="3660" width="1280" height="720"/>
+	<SubTexture name="transout0008" x="5170" y="3660" width="1280" height="720"/>
+	<SubTexture name="transout0009" x="6460" y="3660" width="1280" height="720"/>
+	<SubTexture name="transout0010" x="10" y="4390" width="1280" height="720"/>
+	<SubTexture name="transout0011" x="1300" y="4390" width="1280" height="720"/>
+	<SubTexture name="transout0012" x="2590" y="4390" width="1280" height="720"/>
+	<SubTexture name="transout0013" x="3880" y="4390" width="125" height="94" frameX="-389" frameY="-446" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="transout0014" x="4015" y="4390" width="125" height="94" frameX="-389" frameY="-446" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="transout0015" x="4150" y="4390" width="125" height="94" frameX="-389" frameY="-446" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

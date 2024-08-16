@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character> <!--Character Converter -->
+<character isPlayer="false" x="0" y="0" icon="tofu" flipX="false" camx="-430" camy="-120" holdTime="6.1" scale="0.8">
+	<anim name="singLEFT" anim="Tofu Left0" fps="24" loop="false" x="471" y="312" indices="[]"/>
+	<anim name="singDOWN" anim="Tofu Down0" fps="24" loop="false" x="543" y="305" indices="[]"/>
+	<anim name="singUP" anim="Tofu Up0" fps="24" loop="false" x="471" y="319" indices="[]"/>
+	<anim name="singRIGHT" anim="Tofu Right0" fps="24" loop="false" x="508" y="302" indices="[]"/>
+	<anim name="idle" anim="Tofu Idle0" fps="24" loop="false" x="520" y="310" indices="[]"/>
+</character>

@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="geese" folder="stages/kemo">
+    <sprite name="bg" x="-1050" y="-425" sprite="bg" scale="0.75"/>
+    <sprite name="front" x="-1050" y="-425" sprite="front" scale="0.75"/>
+    <dad y="375"/>
+	<boyfriend  y="410"/>
+
+
+</stage>

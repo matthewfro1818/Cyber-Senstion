@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="sticky.png" width="8192" height="8192">
+	<SubTexture name="down0000" x="0" y="1968" width="857" height="1949" frameX="-53" frameY="-28" frameWidth="1017" frameHeight="2006"/>
+	<SubTexture name="down0001" x="0" y="0" width="857" height="1965" frameX="-53" frameY="-12" frameWidth="1017" frameHeight="2006"/>
+	<SubTexture name="idle0000" x="860" y="1761" width="979" height="1755" frameX="-17" frameY="-69" frameWidth="1080" frameHeight="1836"/>
+	<SubTexture name="idle0001" x="1276" y="3519" width="982" height="1754" frameX="-17" frameY="-70" frameWidth="1080" frameHeight="1836"/>
+	<SubTexture name="idle0002" x="5274" y="5740" width="986" height="1764" frameX="-17" frameY="-60" frameWidth="1080" frameHeight="1836"/>
+	<SubTexture name="idle0003" x="4282" y="5740" width="989" height="1775" frameX="-17" frameY="-49" frameWidth="1080" frameHeight="1836"/>
+	<SubTexture name="idle0004" x="2240" y="5740" width="989" height="1780" frameX="-17" frameY="-44" frameWidth="1080" frameHeight="1836"/>
+	<SubTexture name="idle0005" x="1249" y="5740" width="988" height="1782" frameX="-17" frameY="-42" frameWidth="1080" frameHeight="1836"/>
+	<SubTexture name="left0000" x="0" y="5740" width="1246" height="1810" frameX="-52" frameY="-14" frameWidth="1388" frameHeight="1843"/>
+	<SubTexture name="left0001" x="0" y="3920" width="1273" height="1817" frameX="-24" frameY="-7" frameWidth="1388" frameHeight="1843"/>
+	<SubTexture name="right0000" x="1842" y="1761" width="1473" height="1589" frameX="-21" frameY="-45" frameWidth="1528" frameHeight="1648"/>
+	<SubTexture name="right0001" x="6263" y="5740" width="1487" height="1603" frameX="-22" frameY="-31" frameWidth="1528" frameHeight="1648"/>
+	<SubTexture name="up0000" x="860" y="0" width="1047" height="1758" frameX="-24" frameY="-59" frameWidth="1143" frameHeight="1829"/>
+	<SubTexture name="up0001" x="3232" y="5740" width="1047" height="1776" frameX="-27" frameY="-41" frameWidth="1143" frameHeight="1829"/>
+</TextureAtlas>

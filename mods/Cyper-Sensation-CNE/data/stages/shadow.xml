@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.6" name="shadow" folder="stages/shadow">
+    <sprite name="bg" x="-1080" y="-865" sprite="bg" scale='1.5'/>
+</stage>

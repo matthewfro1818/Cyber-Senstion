@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="taeyaided.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TaeYai dead 0000" x="0" y="0" width="460" height="817" frameX="-51" frameY="0" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0001" x="500" y="0" width="415" height="817" frameX="-94" frameY="0" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0002" x="955" y="0" width="529" height="811" frameX="-23" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0003" x="1524" y="0" width="445" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0004" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0005" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0006" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0007" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0008" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0009" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0010" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0011" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0012" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0013" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0014" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0015" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0016" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0017" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0018" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0019" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0020" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0021" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0022" x="2009" y="0" width="396" height="811" frameX="-100" frameY="-6" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0023" x="2445" y="0" width="396" height="808" frameX="-100" frameY="-9" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0024" x="2445" y="0" width="396" height="808" frameX="-100" frameY="-9" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0025" x="2881" y="0" width="382" height="797" frameX="-111" frameY="-20" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0026" x="3303" y="0" width="403" height="580" frameX="-78" frameY="-234" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0027" x="3746" y="0" width="403" height="571" frameX="-78" frameY="-243" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0028" x="3746" y="0" width="403" height="571" frameX="-78" frameY="-243" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0029" x="4189" y="0" width="403" height="595" frameX="-78" frameY="-219" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0030" x="4189" y="0" width="403" height="595" frameX="-78" frameY="-219" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0031" x="4189" y="0" width="403" height="595" frameX="-78" frameY="-219" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0032" x="4632" y="0" width="547" height="599" frameX="0" frameY="-215" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0033" x="5219" y="0" width="547" height="599" frameX="0" frameY="-215" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0034" x="5806" y="0" width="547" height="599" frameX="0" frameY="-215" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0035" x="6393" y="0" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0036" x="6980" y="0" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0037" x="7567" y="0" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0038" x="0" y="857" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0039" x="587" y="857" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0040" x="1174" y="857" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0041" x="1761" y="857" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0042" x="2348" y="857" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0043" x="2935" y="857" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0044" x="3522" y="857" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0045" x="4109" y="857" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0046" x="4696" y="857" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0047" x="5283" y="857" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0048" x="5870" y="857" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0049" x="6457" y="857" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0050" x="7044" y="857" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0051" x="7631" y="857" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0052" x="0" y="1491" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0053" x="587" y="4830" width="547" height="594" frameX="0" frameY="-220" frameWidth="547" frameHeight="594"/>
+	<SubTexture name="TaeYai dead 0054" x="587" y="4830" width="547" height="594" frameX="0" frameY="-220" frameWidth="547" frameHeight="594"/>
+	<SubTexture name="TaeYai dead 0055" x="587" y="4830" width="547" height="594" frameX="0" frameY="-220" frameWidth="547" frameHeight="594"/>
+	<SubTexture name="TaeYai dead 0056" x="587" y="1491" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0057" x="1174" y="1491" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0058" x="1761" y="1491" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0059" x="2348" y="1491" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0060" x="2935" y="1491" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0061" x="3522" y="1491" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0062" x="4109" y="1491" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0063" x="4696" y="1491" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0064" x="5283" y="1491" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0065" x="5870" y="1491" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0066" x="6457" y="1491" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0067" x="7044" y="1491" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0068" x="7631" y="1491" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0069" x="0" y="2125" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0070" x="587" y="2125" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0071" x="1174" y="2125" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0072" x="1761" y="2125" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0073" x="2348" y="2125" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0074" x="2935" y="2125" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0075" x="3522" y="2125" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0076" x="4109" y="2125" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0077" x="4696" y="2125" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0078" x="5283" y="2125" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0079" x="5870" y="2125" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead 0080" x="6457" y="2125" width="547" height="594" frameX="0" frameY="-220" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="TaeYai dead confirm0000" x="7044" y="2125" width="528" height="651" frameX="-63" frameY="0" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0001" x="7612" y="2125" width="530" height="651" frameX="-62" frameY="0" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0002" x="0" y="2816" width="532" height="651" frameX="-61" frameY="0" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0003" x="572" y="2816" width="534" height="651" frameX="-60" frameY="0" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0004" x="1146" y="2816" width="534" height="651" frameX="-60" frameY="0" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0005" x="1720" y="2816" width="540" height="651" frameX="-59" frameY="0" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0006" x="2300" y="2816" width="550" height="651" frameX="-56" frameY="0" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0007" x="2890" y="2816" width="566" height="651" frameX="-48" frameY="0" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0008" x="3496" y="2816" width="578" height="651" frameX="-42" frameY="0" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0009" x="4114" y="2816" width="590" height="651" frameX="-36" frameY="0" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0010" x="4744" y="2816" width="602" height="651" frameX="-30" frameY="0" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0011" x="5386" y="2816" width="612" height="649" frameX="-25" frameY="-1" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0012" x="6038" y="2816" width="622" height="649" frameX="-20" frameY="-1" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0013" x="6700" y="2816" width="630" height="649" frameX="-16" frameY="-1" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0014" x="7370" y="2816" width="638" height="649" frameX="-12" frameY="-1" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0015" x="0" y="3507" width="644" height="649" frameX="-9" frameY="-1" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0016" x="684" y="3507" width="650" height="649" frameX="-6" frameY="-1" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0017" x="1374" y="3507" width="654" height="649" frameX="-4" frameY="-1" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0018" x="2068" y="3507" width="658" height="649" frameX="-2" frameY="-1" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0019" x="2766" y="3507" width="660" height="649" frameX="-1" frameY="-1" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0020" x="3466" y="3507" width="662" height="649" frameX="0" frameY="-1" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0021" x="4168" y="3507" width="662" height="647" frameX="0" frameY="-2" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0022" x="4168" y="3507" width="662" height="647" frameX="0" frameY="-2" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0023" x="4168" y="3507" width="662" height="647" frameX="0" frameY="-2" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0024" x="4168" y="3507" width="662" height="647" frameX="0" frameY="-2" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0025" x="4168" y="3507" width="662" height="647" frameX="0" frameY="-2" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0026" x="4168" y="3507" width="662" height="647" frameX="0" frameY="-2" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0027" x="4168" y="3507" width="662" height="647" frameX="0" frameY="-2" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0028" x="4168" y="3507" width="662" height="647" frameX="0" frameY="-2" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0029" x="4168" y="3507" width="662" height="647" frameX="0" frameY="-2" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0030" x="4168" y="3507" width="662" height="647" frameX="0" frameY="-2" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0031" x="4168" y="3507" width="662" height="647" frameX="0" frameY="-2" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0032" x="4168" y="3507" width="662" height="647" frameX="0" frameY="-2" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead confirm0033" x="4168" y="3507" width="662" height="647" frameX="0" frameY="-2" frameWidth="662" frameHeight="651"/>
+	<SubTexture name="TaeYai dead loop0000" x="4870" y="3507" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0001" x="5457" y="3507" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0002" x="6044" y="3507" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0003" x="6631" y="3507" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0004" x="7218" y="3507" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0005" x="0" y="4196" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0006" x="587" y="4196" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0007" x="1174" y="4196" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0008" x="1761" y="4196" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0009" x="2348" y="4196" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0010" x="2935" y="4196" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0011" x="3522" y="4196" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0012" x="4109" y="4196" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0013" x="4696" y="4196" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0014" x="5283" y="4196" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0015" x="5870" y="4196" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0016" x="6457" y="4196" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0017" x="7044" y="4196" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0018" x="7631" y="4196" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0019" x="0" y="4830" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0020" x="587" y="4830" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0021" x="587" y="4830" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0022" x="587" y="4830" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0023" x="587" y="4830" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0024" x="1174" y="4830" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0025" x="1761" y="4830" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0026" x="2348" y="4830" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0027" x="2935" y="4830" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0028" x="3522" y="4830" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0029" x="4109" y="4830" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0030" x="4696" y="4830" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0031" x="5283" y="4830" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0032" x="5870" y="4830" width="547" height="594"/>
+	<SubTexture name="TaeYai dead loop0033" x="6457" y="4830" width="547" height="594"/>
+</TextureAtlas>

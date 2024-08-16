@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="taeyai-dream" scale="0.9" camx="100" camy="100" icon="taeyai" gameOverChar="taeyaided" holdTime="6.1" notesprite="taeyai">
+	<anim name="idle" anim="TaeYai Idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="TaeYai left0" x="82" y="-10" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="TaeYai Down0" x="52" y="-85" fps="24" loop="false"/>
+	<anim name="singUP" anim="TaeYai up0" x="13" y="39" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="TaeYai right0" x="-132" y="-22" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="TaeYai left Miss0" x="56" y="-30" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="TaeYai Down Miss0" x="20" y="-85" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="TaeYai up Miss0" x="3" y="37" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="TaeYai right Miss0" x="-29" y="-2" fps="24" loop="false"/>
+</character>

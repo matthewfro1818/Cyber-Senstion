@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="6.1" icon="nonsense" notesprite="nonsense"
+    x="-50" y="-60" camx="-10" camy="90">
+    <anim name="danceLeft" anim="Idle" fps="24" loop="false" x="0" y="0"
+        indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13" />
+    <anim name="danceRight" anim="Idle" fps="24" loop="false" x="0" y="0"
+        indices="14,15,16,17,18,19,20,21,22,23,24,25,26,27" />
+    <anim name="singLEFT" anim="NoteLeft" fps="24" loop="false" x="-58" y="102" />
+    <anim name="singDOWN" anim="NoteDown" fps="24" loop="false" x="-100" y="-119" />
+    <anim name="singUP" anim="NoteUp" fps="24" loop="false" x="2" y="150" />
+    <anim name="singRIGHT" anim="NoteRight" fps="24" loop="false" x="-81" y="-70" />
+</character>

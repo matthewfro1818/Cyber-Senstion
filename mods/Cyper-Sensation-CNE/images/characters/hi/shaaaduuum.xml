@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shaaaduuum.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="virus down0000" x="10" y="10" width="644" height="643" pivotX="279.55" pivotY="7.6" frameX="0" frameY="-25" frameWidth="647" frameHeight="686"/>
+	<SubTexture name="virus down0001" x="664" y="10" width="641" height="661" frameX="-3" frameY="-25" frameWidth="647" frameHeight="686"/>
+	<SubTexture name="virus down0002" x="1315" y="10" width="646" height="571" frameX="-1" frameY="0" frameWidth="647" frameHeight="686"/>
+	<SubTexture name="virus down0003" x="1971" y="10" width="638" height="573" frameX="-8" frameY="-1" frameWidth="647" frameHeight="686"/>
+	<SubTexture name="virus down0004" x="2619" y="10" width="638" height="573" frameX="-8" frameY="-1" frameWidth="647" frameHeight="686"/>
+	<SubTexture name="virus down0005" x="3267" y="10" width="638" height="573" frameX="-8" frameY="-1" frameWidth="647" frameHeight="686"/>
+	<SubTexture name="virus down0006" x="3915" y="10" width="638" height="573" frameX="-8" frameY="-1" frameWidth="647" frameHeight="686"/>
+	<SubTexture name="virus down0007" x="1971" y="10" width="638" height="573" frameX="-8" frameY="-1" frameWidth="647" frameHeight="686"/>
+	<SubTexture name="virus down0008" x="2619" y="10" width="638" height="573" frameX="-8" frameY="-1" frameWidth="647" frameHeight="686"/>
+	<SubTexture name="virus down0009" x="3267" y="10" width="638" height="573" frameX="-8" frameY="-1" frameWidth="647" frameHeight="686"/>
+	<SubTexture name="virus down0010" x="3915" y="10" width="638" height="573" frameX="-8" frameY="-1" frameWidth="647" frameHeight="686"/>
+	<SubTexture name="virus down0011" x="1971" y="10" width="638" height="573" frameX="-8" frameY="-1" frameWidth="647" frameHeight="686"/>
+	<SubTexture name="virus down0012" x="2619" y="10" width="638" height="573" frameX="-8" frameY="-1" frameWidth="647" frameHeight="686"/>
+	<SubTexture name="virus down0013" x="4563" y="10" width="643" height="573" frameX="-3" frameY="-1" frameWidth="647" frameHeight="686"/>
+	<SubTexture name="virus hey0000" x="5216" y="10" width="628" height="849" pivotX="-26.65" pivotY="10.9" frameX="0" frameY="0" frameWidth="630" frameHeight="849"/>
+	<SubTexture name="virus hey0001" x="5854" y="10" width="628" height="849" frameX="0" frameY="0" frameWidth="630" frameHeight="849"/>
+	<SubTexture name="virus hey0002" x="6492" y="10" width="628" height="849" frameX="-2" frameY="0" frameWidth="630" frameHeight="849"/>
+	<SubTexture name="virus hey0003" x="7130" y="10" width="628" height="849" frameX="-2" frameY="0" frameWidth="630" frameHeight="849"/>
+	<SubTexture name="virus hey0004" x="10" y="869" width="628" height="849" frameX="-2" frameY="0" frameWidth="630" frameHeight="849"/>
+	<SubTexture name="virus hey0005" x="648" y="869" width="628" height="849" frameX="-2" frameY="0" frameWidth="630" frameHeight="849"/>
+	<SubTexture name="virus hey0006" x="1286" y="869" width="628" height="849" frameX="-2" frameY="0" frameWidth="630" frameHeight="849"/>
+	<SubTexture name="virus hey0007" x="1924" y="869" width="628" height="849" frameX="-2" frameY="0" frameWidth="630" frameHeight="849"/>
+	<SubTexture name="virus hey0008" x="2562" y="869" width="628" height="849" frameX="-2" frameY="0" frameWidth="630" frameHeight="849"/>
+	<SubTexture name="virus hey0009" x="648" y="869" width="628" height="849" frameX="-2" frameY="0" frameWidth="630" frameHeight="849"/>
+	<SubTexture name="virus hey0010" x="1286" y="869" width="628" height="849" frameX="-2" frameY="0" frameWidth="630" frameHeight="849"/>
+	<SubTexture name="virus hey0011" x="1924" y="869" width="628" height="849" frameX="-2" frameY="0" frameWidth="630" frameHeight="849"/>
+	<SubTexture name="virus hey0012" x="2562" y="869" width="628" height="849" frameX="-2" frameY="0" frameWidth="630" frameHeight="849"/>
+	<SubTexture name="virus hey0013" x="3200" y="869" width="628" height="849" frameX="-2" frameY="0" frameWidth="630" frameHeight="849"/>
+	<SubTexture name="virus idle0000" x="3838" y="869" width="623" height="794" pivotX="-6.25" pivotY="-38" frameX="-1" frameY="-16" frameWidth="627" frameHeight="811"/>
+	<SubTexture name="virus idle0001" x="4471" y="869" width="623" height="794" frameX="-1" frameY="-16" frameWidth="627" frameHeight="811"/>
+	<SubTexture name="virus idle0002" x="5104" y="869" width="624" height="796" frameX="-1" frameY="-14" frameWidth="627" frameHeight="811"/>
+	<SubTexture name="virus idle0003" x="5738" y="869" width="624" height="796" frameX="-1" frameY="-14" frameWidth="627" frameHeight="811"/>
+	<SubTexture name="virus idle0004" x="6372" y="869" width="624" height="801" frameX="-1" frameY="-9" frameWidth="627" frameHeight="811"/>
+	<SubTexture name="virus idle0005" x="7006" y="869" width="624" height="801" frameX="-1" frameY="-9" frameWidth="627" frameHeight="811"/>
+	<SubTexture name="virus idle0006" x="10" y="1728" width="626" height="810" frameX="-1" frameY="-1" frameWidth="627" frameHeight="811"/>
+	<SubTexture name="virus idle0007" x="646" y="1728" width="626" height="810" frameX="-1" frameY="-1" frameWidth="627" frameHeight="811"/>
+	<SubTexture name="virus idle0008" x="1282" y="1728" width="627" height="811"/>
+	<SubTexture name="virus idle0009" x="1919" y="1728" width="627" height="811"/>
+	<SubTexture name="virus idle0010" x="2556" y="1728" width="627" height="811"/>
+	<SubTexture name="virus idle0011" x="3193" y="1728" width="627" height="811"/>
+	<SubTexture name="virus idle0012" x="3830" y="1728" width="627" height="811"/>
+	<SubTexture name="virus idle0013" x="4467" y="1728" width="627" height="811"/>
+	<SubTexture name="virus left0000" x="5104" y="1728" width="701" height="679" pivotX="221.85" pivotY="-253.65" frameX="-61" frameY="-8" frameWidth="785" frameHeight="687"/>
+	<SubTexture name="virus left0001" x="5815" y="1728" width="762" height="655" frameX="0" frameY="-32" frameWidth="785" frameHeight="687"/>
+	<SubTexture name="virus left0002" x="6587" y="1728" width="664" height="667" frameX="-121" frameY="-19" frameWidth="785" frameHeight="687"/>
+	<SubTexture name="virus left0003" x="7261" y="1728" width="661" height="662" frameX="-119" frameY="-24" frameWidth="785" frameHeight="687"/>
+	<SubTexture name="virus left0004" x="10" y="2549" width="661" height="662" frameX="-119" frameY="-24" frameWidth="785" frameHeight="687"/>
+	<SubTexture name="virus left0005" x="681" y="2549" width="672" height="662" frameX="-108" frameY="-24" frameWidth="785" frameHeight="687"/>
+	<SubTexture name="virus left0006" x="1363" y="2549" width="661" height="662" frameX="-119" frameY="-24" frameWidth="785" frameHeight="687"/>
+	<SubTexture name="virus left0007" x="7261" y="1728" width="661" height="662" frameX="-119" frameY="-24" frameWidth="785" frameHeight="687"/>
+	<SubTexture name="virus left0008" x="10" y="2549" width="661" height="662" frameX="-119" frameY="-24" frameWidth="785" frameHeight="687"/>
+	<SubTexture name="virus left0009" x="681" y="2549" width="672" height="662" frameX="-108" frameY="-24" frameWidth="785" frameHeight="687"/>
+	<SubTexture name="virus left0010" x="1363" y="2549" width="661" height="662" frameX="-119" frameY="-24" frameWidth="785" frameHeight="687"/>
+	<SubTexture name="virus left0011" x="7261" y="1728" width="661" height="662" frameX="-119" frameY="-24" frameWidth="785" frameHeight="687"/>
+	<SubTexture name="virus left0012" x="10" y="2549" width="661" height="662" frameX="-119" frameY="-24" frameWidth="785" frameHeight="687"/>
+	<SubTexture name="virus left0013" x="2034" y="2549" width="675" height="662" frameX="-105" frameY="-24" frameWidth="785" frameHeight="687"/>
+	<SubTexture name="virus right0000" x="2719" y="2549" width="852" height="831" pivotX="27.85" pivotY="43" frameX="0" frameY="-6" frameWidth="852" frameHeight="843"/>
+	<SubTexture name="virus right0001" x="3581" y="2549" width="838" height="831" frameX="-14" frameY="-6" frameWidth="852" frameHeight="843"/>
+	<SubTexture name="virus right0002" x="4429" y="2549" width="742" height="843" frameX="-97" frameY="0" frameWidth="852" frameHeight="843"/>
+	<SubTexture name="virus right0003" x="5181" y="2549" width="747" height="838" frameX="-96" frameY="-3" frameWidth="852" frameHeight="843"/>
+	<SubTexture name="virus right0004" x="5938" y="2549" width="747" height="838" frameX="-96" frameY="-3" frameWidth="852" frameHeight="843"/>
+	<SubTexture name="virus right0005" x="6695" y="2549" width="747" height="838" frameX="-96" frameY="-3" frameWidth="852" frameHeight="843"/>
+	<SubTexture name="virus right0006" x="10" y="3402" width="747" height="838" frameX="-96" frameY="-3" frameWidth="852" frameHeight="843"/>
+	<SubTexture name="virus right0007" x="5181" y="2549" width="747" height="838" frameX="-96" frameY="-3" frameWidth="852" frameHeight="843"/>
+	<SubTexture name="virus right0008" x="5938" y="2549" width="747" height="838" frameX="-96" frameY="-3" frameWidth="852" frameHeight="843"/>
+	<SubTexture name="virus right0009" x="6695" y="2549" width="747" height="838" frameX="-96" frameY="-3" frameWidth="852" frameHeight="843"/>
+	<SubTexture name="virus right0010" x="10" y="3402" width="747" height="838" frameX="-96" frameY="-3" frameWidth="852" frameHeight="843"/>
+	<SubTexture name="virus right0011" x="5181" y="2549" width="747" height="838" frameX="-96" frameY="-3" frameWidth="852" frameHeight="843"/>
+	<SubTexture name="virus right0012" x="5938" y="2549" width="747" height="838" frameX="-96" frameY="-3" frameWidth="852" frameHeight="843"/>
+	<SubTexture name="virus right0013" x="6695" y="2549" width="747" height="838" frameX="-96" frameY="-3" frameWidth="852" frameHeight="843"/>
+	<SubTexture name="virus up0000" x="767" y="3402" width="639" height="860" pivotX="-60.7" pivotY="43.75" frameX="0" frameY="0" frameWidth="641" frameHeight="860"/>
+	<SubTexture name="virus up0001" x="1416" y="3402" width="639" height="860" frameX="0" frameY="0" frameWidth="641" frameHeight="860"/>
+	<SubTexture name="virus up0002" x="2065" y="3402" width="640" height="830" frameX="-1" frameY="-29" frameWidth="641" frameHeight="860"/>
+	<SubTexture name="virus up0003" x="2715" y="3402" width="639" height="838" frameX="-1" frameY="-21" frameWidth="641" frameHeight="860"/>
+	<SubTexture name="virus up0004" x="3364" y="3402" width="639" height="838" frameX="-1" frameY="-21" frameWidth="641" frameHeight="860"/>
+	<SubTexture name="virus up0005" x="4013" y="3402" width="639" height="838" frameX="-1" frameY="-21" frameWidth="641" frameHeight="860"/>
+	<SubTexture name="virus up0006" x="4662" y="3402" width="639" height="838" frameX="-1" frameY="-21" frameWidth="641" frameHeight="860"/>
+	<SubTexture name="virus up0007" x="2715" y="3402" width="639" height="838" frameX="-1" frameY="-21" frameWidth="641" frameHeight="860"/>
+	<SubTexture name="virus up0008" x="3364" y="3402" width="639" height="838" frameX="-1" frameY="-21" frameWidth="641" frameHeight="860"/>
+	<SubTexture name="virus up0009" x="4013" y="3402" width="639" height="838" frameX="-1" frameY="-21" frameWidth="641" frameHeight="860"/>
+	<SubTexture name="virus up0010" x="4662" y="3402" width="639" height="838" frameX="-1" frameY="-21" frameWidth="641" frameHeight="860"/>
+	<SubTexture name="virus up0011" x="2715" y="3402" width="639" height="838" frameX="-1" frameY="-21" frameWidth="641" frameHeight="860"/>
+	<SubTexture name="virus up0012" x="5311" y="3402" width="639" height="838" frameX="-1" frameY="-21" frameWidth="641" frameHeight="860"/>
+	<SubTexture name="virus up0013" x="5960" y="3402" width="639" height="838" frameX="-1" frameY="-21" frameWidth="641" frameHeight="860"/>
+</TextureAtlas>

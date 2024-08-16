@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="geese" folder="stages/geese">
+    <sprite name="bg" x="-1050" y="-425" sprite="PissvilleBack" scale="1"/>
+
+    <dad y="375"/>
+	<boyfriend  y="410"/>
+</stage>

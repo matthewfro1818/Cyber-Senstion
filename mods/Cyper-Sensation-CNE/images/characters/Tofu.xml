@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tofu.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tofu Down0000" x="0" y="0" width="1548" height="1257" pivotX="0" pivotY="0"/>
+	<SubTexture name="Tofu Down0001" x="0" y="0" width="1548" height="1257"/>
+	<SubTexture name="Tofu Down0002" x="1548" y="0" width="1548" height="1257"/>
+	<SubTexture name="Tofu Down0003" x="1548" y="0" width="1548" height="1257"/>
+	<SubTexture name="Tofu Down0004" x="3096" y="0" width="1548" height="1257"/>
+	<SubTexture name="Tofu Down0005" x="3096" y="0" width="1548" height="1257"/>
+	<SubTexture name="Tofu Down0006" x="4644" y="0" width="1548" height="1257"/>
+	<SubTexture name="Tofu Down0007" x="4644" y="0" width="1548" height="1257"/>
+	<SubTexture name="Tofu Down0008" x="4644" y="0" width="1548" height="1257"/>
+	<SubTexture name="Tofu Down0009" x="4644" y="0" width="1548" height="1257"/>
+	<SubTexture name="Tofu Down0010" x="4644" y="0" width="1548" height="1257"/>
+	<SubTexture name="Tofu Down0011" x="4644" y="0" width="1548" height="1257"/>
+	<SubTexture name="Tofu Down0012" x="4644" y="0" width="1548" height="1257"/>
+	<SubTexture name="Tofu Down0013" x="4644" y="0" width="1548" height="1257"/>
+	<SubTexture name="Tofu Idle0000" x="6192" y="0" width="1548" height="1257" pivotX="0" pivotY="0"/>
+	<SubTexture name="Tofu Idle0001" x="6192" y="0" width="1548" height="1257"/>
+	<SubTexture name="Tofu Idle0002" x="0" y="1257" width="1548" height="1257"/>
+	<SubTexture name="Tofu Idle0003" x="0" y="1257" width="1548" height="1257"/>
+	<SubTexture name="Tofu Idle0004" x="1548" y="1257" width="1548" height="1257"/>
+	<SubTexture name="Tofu Idle0005" x="1548" y="1257" width="1548" height="1257"/>
+	<SubTexture name="Tofu Idle0006" x="3096" y="1257" width="1548" height="1257"/>
+	<SubTexture name="Tofu Idle0007" x="3096" y="1257" width="1548" height="1257"/>
+	<SubTexture name="Tofu Idle0008" x="4644" y="1257" width="1548" height="1257"/>
+	<SubTexture name="Tofu Idle0009" x="4644" y="1257" width="1548" height="1257"/>
+	<SubTexture name="Tofu Idle0010" x="6192" y="1257" width="1548" height="1257"/>
+	<SubTexture name="Tofu Idle0011" x="6192" y="1257" width="1548" height="1257"/>
+	<SubTexture name="Tofu Idle0012" x="6192" y="1257" width="1548" height="1257"/>
+	<SubTexture name="Tofu Idle0013" x="6192" y="1257" width="1548" height="1257"/>
+	<SubTexture name="Tofu Left0000" x="0" y="2514" width="1548" height="1257" pivotX="0" pivotY="0"/>
+	<SubTexture name="Tofu Left0001" x="0" y="2514" width="1548" height="1257"/>
+	<SubTexture name="Tofu Left0002" x="1548" y="2514" width="1548" height="1257"/>
+	<SubTexture name="Tofu Left0003" x="1548" y="2514" width="1548" height="1257"/>
+	<SubTexture name="Tofu Left0004" x="3096" y="2514" width="1548" height="1257"/>
+	<SubTexture name="Tofu Left0005" x="3096" y="2514" width="1548" height="1257"/>
+	<SubTexture name="Tofu Left0006" x="4644" y="2514" width="1548" height="1257"/>
+	<SubTexture name="Tofu Left0007" x="4644" y="2514" width="1548" height="1257"/>
+	<SubTexture name="Tofu Left0008" x="4644" y="2514" width="1548" height="1257"/>
+	<SubTexture name="Tofu Left0009" x="4644" y="2514" width="1548" height="1257"/>
+	<SubTexture name="Tofu Left0010" x="4644" y="2514" width="1548" height="1257"/>
+	<SubTexture name="Tofu Left0011" x="4644" y="2514" width="1548" height="1257"/>
+	<SubTexture name="Tofu Left0012" x="4644" y="2514" width="1548" height="1257"/>
+	<SubTexture name="Tofu Left0013" x="4644" y="2514" width="1548" height="1257"/>
+	<SubTexture name="Tofu Right0000" x="6192" y="2514" width="1548" height="1257" pivotX="0" pivotY="0"/>
+	<SubTexture name="Tofu Right0001" x="6192" y="2514" width="1548" height="1257"/>
+	<SubTexture name="Tofu Right0002" x="0" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Right0003" x="0" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Right0004" x="1548" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Right0005" x="1548" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Right0006" x="3096" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Right0007" x="3096" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Right0008" x="3096" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Right0009" x="3096" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Right0010" x="3096" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Right0011" x="3096" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Right0012" x="3096" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Right0013" x="3096" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Up0000" x="4644" y="3771" width="1548" height="1257" pivotX="0" pivotY="0"/>
+	<SubTexture name="Tofu Up0001" x="4644" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Up0002" x="6192" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Up0003" x="6192" y="3771" width="1548" height="1257"/>
+	<SubTexture name="Tofu Up0004" x="0" y="5028" width="1548" height="1257"/>
+	<SubTexture name="Tofu Up0005" x="0" y="5028" width="1548" height="1257"/>
+	<SubTexture name="Tofu Up0006" x="1548" y="5028" width="1548" height="1257"/>
+	<SubTexture name="Tofu Up0007" x="1548" y="5028" width="1548" height="1257"/>
+	<SubTexture name="Tofu Up0008" x="1548" y="5028" width="1548" height="1257"/>
+	<SubTexture name="Tofu Up0009" x="1548" y="5028" width="1548" height="1257"/>
+	<SubTexture name="Tofu Up0010" x="1548" y="5028" width="1548" height="1257"/>
+	<SubTexture name="Tofu Up0011" x="1548" y="5028" width="1548" height="1257"/>
+	<SubTexture name="Tofu Up0012" x="1548" y="5028" width="1548" height="1257"/>
+	<SubTexture name="Tofu Up0013" x="1548" y="5028" width="1548" height="1257"/>
+</TextureAtlas>

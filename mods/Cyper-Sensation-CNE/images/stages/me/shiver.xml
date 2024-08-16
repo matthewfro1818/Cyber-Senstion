@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="shiver.png" width="4096" height="1024">
+	<SubTexture name="tile000" x="5" y="5" width="510" height="999" frameX="-53" frameY="-54" frameWidth="576" frameHeight="1074"/>
+	<SubTexture name="tile001" x="520" y="5" width="491" height="1000" frameX="-58" frameY="-54" frameWidth="576" frameHeight="1074"/>
+	<SubTexture name="tile002" x="1016" y="5" width="487" height="1005" frameX="-57" frameY="-48" frameWidth="576" frameHeight="1074"/>
+	<SubTexture name="tile003" x="1508" y="5" width="494" height="1010" frameX="-52" frameY="-43" frameWidth="576" frameHeight="1074"/>
+	<SubTexture name="tile004" x="2007" y="5" width="503" height="1011" frameX="-47" frameY="-42" frameWidth="576" frameHeight="1074"/>
+	<SubTexture name="tile005" x="2515" y="5" width="506" height="1013" frameX="-45" frameY="-40" frameWidth="576" frameHeight="1074"/>
+	<SubTexture name="tile006" x="3026" y="5" width="506" height="1013" frameX="-45" frameY="-40" frameWidth="576" frameHeight="1074"/>
+</TextureAtlas>

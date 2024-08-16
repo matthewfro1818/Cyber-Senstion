@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.4" name="tans" folder="stages/tans">
+    <boyfriend x="355" y="785" />
+    <dad x="1915" y="750" />
+</stage>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="orange.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="orange0000" x="5" y="5" width="600" height="604"/>
+	<SubTexture name="orange0001" x="610" y="5" width="600" height="604"/>
+	<SubTexture name="orange0002" x="1215" y="5" width="600" height="604"/>
+	<SubTexture name="orange0003" x="1820" y="5" width="600" height="604"/>
+	<SubTexture name="orange0004" x="2425" y="5" width="600" height="604"/>
+	<SubTexture name="orange0005" x="3030" y="5" width="600" height="604"/>
+	<SubTexture name="orange0006" x="5" y="614" width="600" height="604"/>
+	<SubTexture name="orange0007" x="610" y="614" width="600" height="604"/>
+	<SubTexture name="orange0008" x="1215" y="614" width="600" height="604"/>
+	<SubTexture name="orange0009" x="1820" y="614" width="600" height="604"/>
+	<SubTexture name="orange0010" x="2425" y="614" width="600" height="604"/>
+	<SubTexture name="orange0011" x="3030" y="614" width="600" height="604"/>
+	<SubTexture name="orange0012" x="5" y="1223" width="600" height="604"/>
+	<SubTexture name="orange0013" x="610" y="1223" width="600" height="604"/>
+	<SubTexture name="orange0014" x="610" y="1223" width="600" height="604"/>
+	<SubTexture name="orange0015" x="5" y="1223" width="600" height="604"/>
+	<SubTexture name="orange0016" x="3030" y="614" width="600" height="604"/>
+	<SubTexture name="orange0017" x="2425" y="614" width="600" height="604"/>
+	<SubTexture name="orange0018" x="1820" y="614" width="600" height="604"/>
+	<SubTexture name="orange0019" x="1215" y="614" width="600" height="604"/>
+	<SubTexture name="orange0020" x="610" y="614" width="600" height="604"/>
+	<SubTexture name="orange0021" x="5" y="614" width="600" height="604"/>
+	<SubTexture name="orange0022" x="3030" y="5" width="600" height="604"/>
+	<SubTexture name="orange0023" x="2425" y="5" width="600" height="604"/>
+	<SubTexture name="orange0024" x="1820" y="5" width="600" height="604"/>
+	<SubTexture name="orange0025" x="1215" y="5" width="600" height="604"/>
+	<SubTexture name="orange0026" x="610" y="5" width="600" height="604"/>
+	<SubTexture name="orange0027" x="5" y="5" width="600" height="604"/>
+</TextureAtlas>

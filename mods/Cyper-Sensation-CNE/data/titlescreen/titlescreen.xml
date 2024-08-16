@@ -1,0 +1,14 @@
+<!DOCTYPE codename-titlestate >
+<titlestate>
+    <sprites folder="menus/titlescreen">
+        <sprite name="fade" sprite="fade" x="0" y="0" />
+        <sprite name="lasers" sprite="lazers-effect" x="0" y="0" />
+        <sprite name="lasers2" sprite="lazers-effectless" x="0" y="0" />
+        <sprite name="logo" sprite="logo" x="280" y="11" />
+         <sprite name="logo-th" sprite="logo-th" x="280" y="11" />
+    </sprites>
+
+    <intro length="16">
+        <text beat="4" /> <!-- clears the screen !-->
+    </intro>
+</titlestate>

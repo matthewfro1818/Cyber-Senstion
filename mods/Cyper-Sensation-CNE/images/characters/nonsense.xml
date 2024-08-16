@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NewNonsense.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="5" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0001" x="360" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0002" x="715" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0003" x="715" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0004" x="1070" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0005" x="1070" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0006" x="1425" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0007" x="1425" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0008" x="1780" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0009" x="1780" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0010" x="2135" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0011" x="2135" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0012" x="2490" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0013" x="2845" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0014" x="3200" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0015" x="3555" y="5" width="350" height="659"/>
+	<SubTexture name="Idle0016" x="5" y="669" width="350" height="659"/>
+	<SubTexture name="Idle0017" x="360" y="669" width="350" height="659"/>
+	<SubTexture name="Idle0018" x="360" y="669" width="350" height="659"/>
+	<SubTexture name="Idle0019" x="715" y="669" width="350" height="659"/>
+	<SubTexture name="Idle0020" x="715" y="669" width="350" height="659"/>
+	<SubTexture name="Idle0021" x="1070" y="669" width="350" height="659"/>
+	<SubTexture name="Idle0022" x="1070" y="669" width="350" height="659"/>
+	<SubTexture name="Idle0023" x="1425" y="669" width="350" height="659"/>
+	<SubTexture name="Idle0024" x="1425" y="669" width="350" height="659"/>
+	<SubTexture name="Idle0025" x="1780" y="669" width="350" height="659"/>
+	<SubTexture name="Idle0026" x="1780" y="669" width="350" height="659"/>
+	<SubTexture name="Idle0027" x="2135" y="669" width="350" height="659"/>
+	<SubTexture name="Idle0028" x="2490" y="669" width="350" height="659"/>
+	<SubTexture name="Idle0029" x="2845" y="669" width="350" height="659"/>
+	<SubTexture name="Nonsense shoot gun0000" x="3200" y="669" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0001" x="3200" y="669" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0002" x="5" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0003" x="5" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0004" x="5" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0005" x="5" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0006" x="5" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0007" x="5" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0008" x="5" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0009" x="5" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0010" x="5" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0011" x="550" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0012" x="550" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0013" x="1095" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0014" x="1095" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0015" x="1640" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0016" x="1640" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0017" x="2185" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0018" x="2730" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0019" x="3275" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0020" x="3275" y="1333" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0021" x="5" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0022" x="5" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0023" x="5" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0024" x="5" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0025" x="550" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0026" x="550" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0027" x="1095" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0028" x="1095" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0029" x="1640" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0030" x="1640" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0031" x="2185" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0032" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0033" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0034" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0035" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0036" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0037" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0038" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0039" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0040" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0041" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0042" x="3275" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0043" x="5" y="2633" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0044" x="550" y="2633" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0045" x="1095" y="2633" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0046" x="1640" y="2633" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0047" x="2185" y="2633" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0048" x="2185" y="2633" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0049" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0050" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0051" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0052" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0053" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0054" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="Nonsense shoot gun0055" x="2730" y="1983" width="540" height="645"/>
+	<SubTexture name="NoteDown0000" x="2730" y="2633" width="324" height="598"/>
+	<SubTexture name="NoteDown0001" x="3059" y="2633" width="324" height="598"/>
+	<SubTexture name="NoteDown0002" x="3388" y="2633" width="324" height="598"/>
+	<SubTexture name="NoteDown0003" x="3717" y="2633" width="324" height="598"/>
+	<SubTexture name="NoteDown0004" x="5" y="3283" width="324" height="598"/>
+	<SubTexture name="NoteDown0005" x="334" y="3283" width="324" height="598"/>
+	<SubTexture name="NoteDown0006" x="663" y="3283" width="324" height="598"/>
+	<SubTexture name="NoteDown0007" x="663" y="3283" width="324" height="598"/>
+	<SubTexture name="NoteDown0008" x="663" y="3283" width="324" height="598"/>
+	<SubTexture name="NoteDown0009" x="663" y="3283" width="324" height="598"/>
+	<SubTexture name="NoteDown0010" x="663" y="3283" width="324" height="598"/>
+	<SubTexture name="NoteDown0011" x="663" y="3283" width="324" height="598"/>
+	<SubTexture name="NoteDown0012" x="663" y="3283" width="324" height="598"/>
+	<SubTexture name="NoteDown0013" x="663" y="3283" width="324" height="598"/>
+	<SubTexture name="NoteDown0014" x="663" y="3283" width="324" height="598"/>
+	<SubTexture name="NoteDown0015" x="663" y="3283" width="324" height="598"/>
+	<SubTexture name="NoteLeft0000" x="992" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0001" x="1290" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0002" x="1588" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0003" x="1886" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0004" x="2184" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0005" x="2184" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0006" x="2482" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0007" x="2482" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0008" x="2482" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0009" x="2482" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0010" x="2482" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0011" x="2482" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0012" x="2482" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0013" x="2482" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0014" x="2482" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0015" x="2482" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0016" x="2482" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0017" x="2482" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteLeft0018" x="2482" y="3283" width="293" height="640"/>
+	<SubTexture name="NoteRight0000" x="2780" y="3283" width="347" height="648"/>
+	<SubTexture name="NoteRight0001" x="3132" y="3283" width="347" height="648"/>
+	<SubTexture name="NoteRight0002" x="3484" y="3283" width="347" height="648"/>
+	<SubTexture name="NoteRight0003" x="5" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0004" x="357" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0005" x="357" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0006" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0007" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0008" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0009" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0010" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0011" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0012" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0013" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0014" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0015" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0016" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0017" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0018" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0019" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0020" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0021" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0022" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteRight0023" x="709" y="3936" width="347" height="648"/>
+	<SubTexture name="NoteUp0000" x="1061" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0001" x="1397" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0002" x="1733" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0003" x="2069" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0004" x="2405" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0005" x="2405" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0006" x="2741" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0007" x="2741" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0008" x="2741" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0009" x="2741" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0010" x="2741" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0011" x="2741" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0012" x="2741" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0013" x="2741" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0014" x="2741" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0015" x="2741" y="3936" width="331" height="675"/>
+	<SubTexture name="NoteUp0016" x="2741" y="3936" width="331" height="675"/>
+</TextureAtlas>

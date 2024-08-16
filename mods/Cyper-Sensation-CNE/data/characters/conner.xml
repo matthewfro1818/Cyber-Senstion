@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="6.1" icon="conner"
+    x="0" y="0" camx="-10" camy="90">
+    <anim name="idle" anim="Conner Idle0" fps="24" loop="false" x="0" y="-80" />
+    <anim name="singLEFT" anim="Conner Left0" fps="24" loop="false" x="47" y="-89" />
+    <anim name="singDOWN" anim="Conner Down0" fps="24" loop="false" x="0" y="-138" />
+    <anim name="singUP" anim="Conner Up0" fps="24" loop="false" x="-10" y="-40" />
+    <anim name="singRIGHT" anim="Conner Right0" fps="24" loop="false" x="-16" y="-116" />
+</character>

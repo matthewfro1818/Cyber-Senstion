@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="praticle.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="praticle0000" x="10" y="10" width="38" height="83" frameX="0" frameY="-39" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0001" x="58" y="10" width="52" height="116" frameX="-8" frameY="-20" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0002" x="120" y="10" width="59" height="131" frameX="-12" frameY="-11" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0003" x="189" y="10" width="62" height="138" frameX="-13" frameY="-7" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0004" x="261" y="10" width="63" height="138" frameX="-13" frameY="-7" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0005" x="334" y="10" width="67" height="141" frameX="-16" frameY="-4" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0006" x="411" y="10" width="71" height="142" frameX="-17" frameY="-3" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0007" x="492" y="10" width="74" height="143" frameX="-18" frameY="-2" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0008" x="576" y="10" width="75" height="144" frameX="-19" frameY="-1" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0009" x="661" y="10" width="76" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0010" x="747" y="10" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0011" x="834" y="10" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0012" x="921" y="10" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0013" x="10" y="165" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0014" x="97" y="165" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0015" x="184" y="165" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0016" x="271" y="165" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0017" x="358" y="165" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0018" x="445" y="165" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0019" x="532" y="165" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0020" x="619" y="165" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0021" x="706" y="165" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0022" x="793" y="165" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0023" x="880" y="165" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0024" x="10" y="320" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0025" x="97" y="320" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+	<SubTexture name="praticle0026" x="184" y="320" width="77" height="145" frameX="-20" frameY="0" frameWidth="97" frameHeight="145"/>
+</TextureAtlas>

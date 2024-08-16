@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Geese.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Geese Down0000" x="5" y="5" width="322" height="693" frameX="0" frameY="-11" frameWidth="322" frameHeight="704"/>
+	<SubTexture name="Geese Down0001" x="5" y="5" width="322" height="693" frameX="0" frameY="-11" frameWidth="322" frameHeight="704"/>
+	<SubTexture name="Geese Down0002" x="332" y="5" width="322" height="698" frameX="0" frameY="-6" frameWidth="322" frameHeight="704"/>
+	<SubTexture name="Geese Down0003" x="332" y="5" width="322" height="698" frameX="0" frameY="-6" frameWidth="322" frameHeight="704"/>
+	<SubTexture name="Geese Down0004" x="659" y="5" width="322" height="704"/>
+	<SubTexture name="Geese Down0005" x="659" y="5" width="322" height="704"/>
+	<SubTexture name="Geese Down0006" x="986" y="5" width="322" height="704"/>
+	<SubTexture name="Geese Down0007" x="986" y="5" width="322" height="704"/>
+	<SubTexture name="Geese Down0008" x="986" y="5" width="322" height="704"/>
+	<SubTexture name="Geese Down0009" x="986" y="5" width="322" height="704"/>
+	<SubTexture name="Geese IDLE0000" x="1313" y="5" width="327" height="784" frameX="-1" frameY="-7" frameWidth="332" frameHeight="792"/>
+	<SubTexture name="Geese IDLE0001" x="1313" y="5" width="327" height="784" frameX="-1" frameY="-7" frameWidth="332" frameHeight="792"/>
+	<SubTexture name="Geese IDLE0002" x="1645" y="5" width="327" height="788" frameX="-1" frameY="-3" frameWidth="332" frameHeight="792"/>
+	<SubTexture name="Geese IDLE0003" x="1645" y="5" width="327" height="788" frameX="-1" frameY="-3" frameWidth="332" frameHeight="792"/>
+	<SubTexture name="Geese IDLE0004" x="1977" y="5" width="328" height="790" frameX="-1" frameY="-2" frameWidth="332" frameHeight="792"/>
+	<SubTexture name="Geese IDLE0005" x="1977" y="5" width="328" height="790" frameX="-1" frameY="-2" frameWidth="332" frameHeight="792"/>
+	<SubTexture name="Geese IDLE0006" x="2310" y="5" width="330" height="791" frameX="-1" frameY="-1" frameWidth="332" frameHeight="792"/>
+	<SubTexture name="Geese IDLE0007" x="2310" y="5" width="330" height="791" frameX="-1" frameY="-1" frameWidth="332" frameHeight="792"/>
+	<SubTexture name="Geese IDLE0008" x="2645" y="5" width="332" height="792"/>
+	<SubTexture name="Geese IDLE0009" x="2645" y="5" width="332" height="792"/>
+	<SubTexture name="Geese IDLE0010" x="2645" y="5" width="332" height="792"/>
+	<SubTexture name="Geese IDLE0011" x="2645" y="5" width="332" height="792"/>
+	<SubTexture name="Geese IDLE0012" x="2645" y="5" width="332" height="792"/>
+	<SubTexture name="Geese IDLE0013" x="2645" y="5" width="332" height="792"/>
+	<SubTexture name="Geese IDLE0014" x="2645" y="5" width="332" height="792"/>
+	<SubTexture name="Geese Left0000" x="2982" y="5" width="347" height="792" frameX="-1" frameY="0" frameWidth="349" frameHeight="792"/>
+	<SubTexture name="Geese Left0001" x="2982" y="5" width="347" height="792" frameX="-1" frameY="0" frameWidth="349" frameHeight="792"/>
+	<SubTexture name="Geese Left0002" x="3334" y="5" width="348" height="791" frameX="-1" frameY="-1" frameWidth="349" frameHeight="792"/>
+	<SubTexture name="Geese Left0003" x="3334" y="5" width="348" height="791" frameX="-1" frameY="-1" frameWidth="349" frameHeight="792"/>
+	<SubTexture name="Geese Left0004" x="3687" y="5" width="349" height="791" frameX="0" frameY="-1" frameWidth="349" frameHeight="792"/>
+	<SubTexture name="Geese Left0005" x="3687" y="5" width="349" height="791" frameX="0" frameY="-1" frameWidth="349" frameHeight="792"/>
+	<SubTexture name="Geese Left0006" x="3687" y="5" width="349" height="791" frameX="0" frameY="-1" frameWidth="349" frameHeight="792"/>
+	<SubTexture name="Geese Left0007" x="3687" y="5" width="349" height="791" frameX="0" frameY="-1" frameWidth="349" frameHeight="792"/>
+	<SubTexture name="Geese Left0008" x="3687" y="5" width="349" height="791" frameX="0" frameY="-1" frameWidth="349" frameHeight="792"/>
+	<SubTexture name="Geese Left0009" x="3687" y="5" width="349" height="791" frameX="0" frameY="-1" frameWidth="349" frameHeight="792"/>
+	<SubTexture name="Geese Right0000" x="5" y="802" width="475" height="760" frameX="-4" frameY="-3" frameWidth="479" frameHeight="763"/>
+	<SubTexture name="Geese Right0001" x="5" y="802" width="475" height="760" frameX="-4" frameY="-3" frameWidth="479" frameHeight="763"/>
+	<SubTexture name="Geese Right0002" x="485" y="802" width="472" height="760" frameX="-2" frameY="-3" frameWidth="479" frameHeight="763"/>
+	<SubTexture name="Geese Right0003" x="485" y="802" width="472" height="760" frameX="-2" frameY="-3" frameWidth="479" frameHeight="763"/>
+	<SubTexture name="Geese Right0004" x="962" y="802" width="469" height="763" frameX="0" frameY="0" frameWidth="479" frameHeight="763"/>
+	<SubTexture name="Geese Right0005" x="962" y="802" width="469" height="763" frameX="0" frameY="0" frameWidth="479" frameHeight="763"/>
+	<SubTexture name="Geese Right0006" x="962" y="802" width="469" height="763" frameX="0" frameY="0" frameWidth="479" frameHeight="763"/>
+	<SubTexture name="Geese Right0007" x="962" y="802" width="469" height="763" frameX="0" frameY="0" frameWidth="479" frameHeight="763"/>
+	<SubTexture name="Geese Right0008" x="962" y="802" width="469" height="763" frameX="0" frameY="0" frameWidth="479" frameHeight="763"/>
+	<SubTexture name="Geese Right0009" x="962" y="802" width="469" height="763" frameX="0" frameY="0" frameWidth="479" frameHeight="763"/>
+	<SubTexture name="Geese Up0000" x="1436" y="802" width="331" height="805" frameX="-1" frameY="0" frameWidth="334" frameHeight="805"/>
+	<SubTexture name="Geese Up0001" x="1436" y="802" width="331" height="805" frameX="-1" frameY="0" frameWidth="334" frameHeight="805"/>
+	<SubTexture name="Geese Up0002" x="1772" y="802" width="333" height="802" frameX="-1" frameY="-3" frameWidth="334" frameHeight="805"/>
+	<SubTexture name="Geese Up0003" x="1772" y="802" width="333" height="802" frameX="-1" frameY="-3" frameWidth="334" frameHeight="805"/>
+	<SubTexture name="Geese Up0004" x="2110" y="802" width="334" height="800" frameX="0" frameY="-5" frameWidth="334" frameHeight="805"/>
+	<SubTexture name="Geese Up0005" x="2110" y="802" width="334" height="800" frameX="0" frameY="-5" frameWidth="334" frameHeight="805"/>
+	<SubTexture name="Geese Up0006" x="2110" y="802" width="334" height="800" frameX="0" frameY="-5" frameWidth="334" frameHeight="805"/>
+	<SubTexture name="Geese Up0007" x="2110" y="802" width="334" height="800" frameX="0" frameY="-5" frameWidth="334" frameHeight="805"/>
+	<SubTexture name="Geese Up0008" x="2110" y="802" width="334" height="800" frameX="0" frameY="-5" frameWidth="334" frameHeight="805"/>
+	<SubTexture name="Geese Up0009" x="2110" y="802" width="334" height="800" frameX="0" frameY="-5" frameWidth="334" frameHeight="805"/>
+</TextureAtlas>

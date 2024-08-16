@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="bf" y="350" isGF="false" isPlayer="true" sprite="sadbf">
+	<anim x="-46" loop="false" y="2" fps="24" anim="BF idle dance0" name="idle"/>
+	<anim x="-58" loop="false" y="7" fps="24" anim="BF left0" name="singLEFT"/>
+	<anim x="-61" loop="false" y="-24" fps="24" anim="BF down0" name="singDOWN"/>
+	<anim x="-49" loop="false" y="15" fps="24" anim="BF up0" name="singUP"/>
+	<anim x="-34" loop="false" y="2" fps="24" anim="BF right0" name="singRIGHT"/>
+</character>

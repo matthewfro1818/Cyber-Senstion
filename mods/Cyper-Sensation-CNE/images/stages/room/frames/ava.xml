@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ava.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ava0000" x="5" y="5" width="362" height="330" frameX="0" frameY="0" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0001" x="372" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0002" x="739" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0003" x="1106" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0004" x="1473" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0005" x="5" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0006" x="372" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0007" x="739" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0008" x="1106" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0009" x="1473" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0010" x="5" y="675" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0011" x="372" y="675" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0012" x="739" y="675" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0013" x="372" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0014" x="739" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0015" x="1106" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0016" x="1473" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0017" x="5" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0018" x="372" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0019" x="739" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0020" x="1106" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0021" x="1473" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0022" x="5" y="675" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0023" x="372" y="675" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0024" x="739" y="675" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0025" x="372" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0026" x="739" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0027" x="1106" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0028" x="1473" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0029" x="5" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0030" x="372" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0031" x="739" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0032" x="1106" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0033" x="1473" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0034" x="5" y="675" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0035" x="372" y="675" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0036" x="739" y="675" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0037" x="372" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0038" x="739" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0039" x="1106" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0040" x="1473" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0041" x="5" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0042" x="372" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0043" x="739" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0044" x="1106" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0045" x="1473" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0046" x="5" y="675" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0047" x="372" y="675" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0048" x="739" y="675" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0049" x="372" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0050" x="739" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0051" x="1106" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0052" x="1473" y="5" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0053" x="5" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0054" x="372" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0055" x="739" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0056" x="1106" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0057" x="1473" y="340" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0058" x="5" y="675" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+	<SubTexture name="ava0059" x="372" y="675" width="362" height="330" frameX="-2" frameY="-1" frameWidth="364" frameHeight="331"/>
+</TextureAtlas>

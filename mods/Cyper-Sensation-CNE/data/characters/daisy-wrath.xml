@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="760" icon="lily" camx="-310" y="-120" isGF="false" camy="170" flipX="true" isPlayer="false" holdTime="6.1" sprite="daisy-wrath">
+	<anim x="-34" loop="false" y="-160" fps="24" anim="HER left instance 1" name="singLEFT"/>
+	<anim x="-38" loop="false" y="-195" fps="24" anim="HER down instance 1" name="singDOWN"/>
+	<anim x="-2" loop="false" y="-102" fps="24" anim="HER up instance 1" name="singUP"/>
+	<anim x="44" loop="false" y="-152" fps="24" anim="HER right instance 1" name="singRIGHT"/>
+	<anim x="-40" loop="false" y="-150" fps="24" anim="HER idle instance 1" name="idle"/>
+</character>

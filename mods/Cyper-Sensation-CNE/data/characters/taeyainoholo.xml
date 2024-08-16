@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="taeyai" y="0" isGF="false" flipX="true" isPlayer="false" holdTime="6.1" sprite="taeyainoholo" gameOverChar="taeyaided">
+	<anim x="5" loop="false" y="-80" fps="24" anim="Taenoholo down0" name="singDOWN"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="Taenoholo idle0" name="idle"/>
+	<anim x="66" loop="false" y="-25" fps="24" anim="Taenoholo left0" name="singRIGHT"/>
+	<anim x="16" loop="false" y="-12" fps="24" anim="Taenoholo right0" name="singLEFT"/>
+	<anim x="8" loop="false" y="22" fps="24" anim="Taenoholo up0" name="singUP"/>
+	<anim x="8" loop="true" y="20" fps="24" anim="Taenoholo up0" name="singUP-loop"/>
+	<anim x="16" loop="true" y="-15" fps="24" anim="Taenoholo right0" name="singLEFT-loop"/>
+	<anim x="64" loop="true" y="-22" fps="24" anim="Taenoholo left0" name="singRIGHT-loop"/>
+	<anim x="21" loop="false" y="-15" fps="24" anim="Taenoholo missright 0" name="singLEFTmiss"/>
+	<anim x="20" loop="false" y="-85" fps="24" anim="Taenoholo missdown 0" name="singDOWNmiss"/>
+	<anim x="8" loop="false" y="24" fps="24" anim="Taenoholo missup0" name="singUPmiss"/>
+	<anim x="61" loop="false" y="-24" fps="24" anim="Taenoholo missleft 0" name="singRIGHTmiss"/>
+</character>

@@ -1,0 +1,9 @@
+<!-- taeyai if she made psych engine -->
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="6.1" x="-400" y="-400" notesprite="taeyai">
+    <anim name="idle"      anim="shadow taeyai idle0"      fps="24" loop="false" x="0" y="0"/>
+    <anim name="singUP"    anim="shadow taeyai up0"    fps="24" loop="false" x="13" y="59"/>
+    <anim name="singLEFT"  anim="shadow taeyai left0"  fps="24" loop="false" x="52" y="10"/>
+    <anim name="singRIGHT" anim="shadow taeyai right0" fps="24" loop="false" x="-102" y="-12"/>
+    <anim name="singDOWN"  anim="shadow taeyai down0"  fps="24" loop="false" x="52" y="5"/>
+</character>

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character> <!--Character Converter -->
+<character isPlayer="true" x="-70" y="-60" icon="taeyai" flipX="true" camx="90" camy="40" holdTime="6.1" scale="0.9" notesprite="taeyai" gameOverChar="taeyaided">
+	<anim name="singLEFT" anim="left" fps="24" loop="false" x="21" y="3" indices="[]"/>
+	<anim name="singDOWN" anim="down" fps="24" loop="false" x="86" y="-69" indices="[]"/>
+	<anim name="singUP" anim="up" fps="24" loop="false" x="-154" y="28" indices="[]"/>
+	<anim name="singRIGHT" anim="right" fps="24" loop="false" x="-26" y="-7" indices="[]"/>
+	<anim name="hey" anim="hey" fps="24" loop="false" x="2" y="6" indices="[]"/>
+	<anim name="danceLeft" anim="idle" fps="24" loop="false" x="0" y="0" indices="[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14]"/>
+	<anim name="danceRight" anim="idle" fps="24" loop="false" x="0" y="0" indices="[15,16,17,18,19,20,21,22,23,24,25,26,27,28,29]"/>
+</character>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character> <!--Character Converter -->
+<character isPlayer="false" x="0" y="0" icon="face" flipX="false" camx="0" camy="0" holdTime="6.1" scale="1" sprite="SoftTae">
+	<anim name="singLEFT" anim="SoftTaeLeft0" fps="24" loop="false" x="61" y="-87" indices="[]"/>
+	<anim name="singDOWN" anim="SoftTaeDown0" fps="24" loop="false" x="-17" y="-215" indices="[]"/>
+	<anim name="singUP" anim="SoftTaeUp0" fps="24" loop="false" x="21" y="-51" indices="[]"/>
+	<anim name="singRIGHT" anim="SoftTaeRight0" fps="24" loop="false" x="-32" y="-78" indices="[]"/>
+	<anim name="idle" anim="SoftTaeIdle0" fps="24" loop="false" x="0" y="-80" indices="[]"/>
+</character>

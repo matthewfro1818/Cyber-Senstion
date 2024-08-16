@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.6" name="room" folder="stages/room">
+    <sprite name="roombg" x="-600" y="-200" sprite="bg2" scroll="0.9"/>
+
+    <!-- ATTACHED SCRIPT WILL AUTO ADD THE PANELS -->
+
+    <sprite name="roombg2" x="-600" y="-200" sprite="bg" scroll="0.9"/>
+
+    <girlfriend />
+    <boyfriend x="820" y="560" />
+    <dad x="50" y="500" />
+</stage>

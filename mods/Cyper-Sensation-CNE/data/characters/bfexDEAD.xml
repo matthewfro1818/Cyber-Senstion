@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="taeyai" y="0" isGF="false" scale="0.9" isPlayer="true" holdTime="6.1" sprite="bfexDEAD">
+	<anim x="0" loop="false" y="0" fps="24" anim="bfEXdies0" name="firstDeath"/>
+	<anim x="-45" loop="false" y="-58" fps="24" anim="dead loop0" name="deathLoop"/>
+	<anim x="-45" loop="false" y="-34" fps="24" anim="dead confirm0" name="deathConfirm"/>
+</character>

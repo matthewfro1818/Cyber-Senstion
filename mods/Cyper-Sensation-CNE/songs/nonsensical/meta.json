@@ -1,0 +1,9 @@
+{
+    "displayName": "Nonsensical",
+    "bpm": 200,
+    "icon": "NonsenseEX",
+    "color": "146,113,253",
+    "opponentModeAllowed": true,
+    "coopAllowed": true,
+    "composer": "P.GOD"
+}

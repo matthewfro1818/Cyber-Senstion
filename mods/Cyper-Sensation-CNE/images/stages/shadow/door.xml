@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="door.png" width="4096" height="4096">
+	<SubTexture name="frame_0" x="5" y="5" width="2355" height="1670" frameX="-0" frameY="-0" frameWidth="2355" frameHeight="1670"/>
+	<SubTexture name="frame_1" x="2365" y="5" width="1670" height="2355" rotated="true" frameX="-0" frameY="-0" frameWidth="2355" frameHeight="1670"/>
+	<SubTexture name="frame_2" x="5" y="1680" width="1670" height="2355" rotated="true" frameX="-0" frameY="-0" frameWidth="2355" frameHeight="1670"/>
+	<SubTexture name="frame_3" x="1680" y="2365" width="2355" height="1670" frameX="-0" frameY="-0" frameWidth="2355" frameHeight="1670"/>
+</TextureAtlas>

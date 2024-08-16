@@ -1,0 +1,9 @@
+{
+    "name": "Our Hope",
+    "icon": "hope",
+    "color": "#000000",
+    "bpm": 200,
+    "coopAllowed": true,
+    "opponentModeAllowed": true,
+    "composer": "BruhSalino"
+}

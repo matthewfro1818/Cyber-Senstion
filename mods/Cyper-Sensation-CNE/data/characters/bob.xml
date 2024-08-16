@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character> <!--Character Converter -->
+<character isPlayer="false" x="-30" y="310" icon="bob" flipX="false" camx="100" camy="100" holdTime="7.89999999999999" scale="1" notesprite="bob">
+	<anim name="singLEFT" anim="left" fps="24" loop="false" x="0" y="0" indices="[]"/>
+	<anim name="singDOWN" anim="down" fps="24" loop="false" x="0" y="0" indices="[]"/>
+	<anim name="singUP" anim="up" fps="24" loop="false" x="0" y="0" indices="[]"/>
+	<anim name="singRIGHT" anim="right" fps="24" loop="false" x="0" y="0" indices="[]"/>
+	<anim name="idle" anim="idle" fps="24" loop="false" x="0" y="0" indices="[]"/>
+</character>

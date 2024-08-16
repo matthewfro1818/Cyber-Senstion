@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shadow_taeyai.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shadow taeyai down0000" x="0" y="0" width="1203" height="1192" pivotX="0" pivotY="0"/>
+	<SubTexture name="shadow taeyai down0001" x="0" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai down0002" x="1203" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai down0003" x="1203" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai down0004" x="2406" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai down0005" x="2406" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai down0006" x="3609" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai down0007" x="3609" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai down0008" x="3609" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai down0009" x="3609" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai down0010" x="3609" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai down0011" x="3609" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai down0012" x="3609" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai down0013" x="3609" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0000" x="4812" y="0" width="1203" height="1192" pivotX="0" pivotY="0"/>
+	<SubTexture name="shadow taeyai idle0001" x="4812" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0002" x="6015" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0003" x="6015" y="0" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0004" x="0" y="1192" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0005" x="0" y="1192" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0006" x="1203" y="1192" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0007" x="1203" y="1192" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0008" x="2406" y="1192" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0009" x="2406" y="1192" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0010" x="3609" y="1192" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0011" x="3609" y="1192" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0012" x="3609" y="1192" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0013" x="3609" y="1192" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0014" x="4812" y="1192" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0015" x="4812" y="1192" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0016" x="6015" y="1192" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0017" x="6015" y="1192" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0018" x="0" y="2384" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0019" x="0" y="2384" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0020" x="1203" y="2384" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0021" x="1203" y="2384" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0022" x="2406" y="2384" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0023" x="2406" y="2384" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0024" x="3609" y="2384" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0025" x="3609" y="2384" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0026" x="3609" y="2384" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai idle0027" x="3609" y="2384" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai left0000" x="4812" y="2384" width="1203" height="1192" pivotX="0" pivotY="0"/>
+	<SubTexture name="shadow taeyai left0001" x="4812" y="2384" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai left0002" x="6015" y="2384" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai left0003" x="6015" y="2384" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai left0004" x="0" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai left0005" x="0" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai left0006" x="1203" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai left0007" x="1203" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai left0008" x="1203" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai left0009" x="1203" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai left0010" x="1203" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai left0011" x="1203" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai left0012" x="1203" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai left0013" x="1203" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai right0000" x="2406" y="3576" width="1203" height="1192" pivotX="0" pivotY="0"/>
+	<SubTexture name="shadow taeyai right0001" x="2406" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai right0002" x="3609" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai right0003" x="3609" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai right0004" x="4812" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai right0005" x="4812" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai right0006" x="6015" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai right0007" x="6015" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai right0008" x="6015" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai right0009" x="6015" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai right0010" x="6015" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai right0011" x="6015" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai right0012" x="6015" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai right0013" x="6015" y="3576" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai up0000" x="0" y="4768" width="1203" height="1192" pivotX="0" pivotY="0"/>
+	<SubTexture name="shadow taeyai up0001" x="0" y="4768" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai up0002" x="1203" y="4768" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai up0003" x="1203" y="4768" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai up0004" x="2406" y="4768" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai up0005" x="2406" y="4768" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai up0006" x="3609" y="4768" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai up0007" x="3609" y="4768" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai up0008" x="3609" y="4768" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai up0009" x="3609" y="4768" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai up0010" x="3609" y="4768" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai up0011" x="3609" y="4768" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai up0012" x="3609" y="4768" width="1203" height="1192"/>
+	<SubTexture name="shadow taeyai up0013" x="3609" y="4768" width="1203" height="1192"/>
+</TextureAtlas>

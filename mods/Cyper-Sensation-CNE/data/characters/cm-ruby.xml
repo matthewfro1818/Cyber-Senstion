@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" y="0" camx="-60" icon="tofu" isGF="false" camy="10" iconColor="-10592674" scale="0.8" flipX="false" isPlayer="false" holdTime="6.1" gameOverChar="null" antialiasing="true" sprite="cm-ruby">
+	<anim loop="false" x="102" anim="ruby let0" fps="24" y="46" name="singLEFT" indices="[]"/>
+	<anim loop="false" x="108" anim="ruby down0" fps="24" y="2" name="singDOWN" indices="[]"/>
+	<anim loop="false" x="81" anim="ruby up0" fps="24" y="83" name="singUP" indices="[]"/>
+	<anim loop="false" x="90" anim="ruby right0" fps="24" y="48" name="singRIGHT" indices="[]"/>
+	<anim loop="false" x="100" anim="ruby idle0" fps="24" y="60" name="idle" indices="[]"/>
+</character>

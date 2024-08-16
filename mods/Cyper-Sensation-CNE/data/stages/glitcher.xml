@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="glitcher" folder="stages/hex/">
+   
+    <sprite name="glitchbg" x="-600" y="-200" sprite="stageback" scroll="0.5"/>
+    
+    <sprite name="wire" x="-600" y="-200" sprite="WIREStageBack" scroll="0.5"/>
+
+    <boyfriend x="920" y="60" />
+    <dad x="60" y="0" />
+</stage>

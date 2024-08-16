@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.5" name="room" folder="stages/room">
+    <girlfriend />
+    <boyfriend x="820" y="560" />
+    <dad x="50" y="660" />
+</stage>

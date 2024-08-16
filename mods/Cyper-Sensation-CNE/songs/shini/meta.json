@@ -1,0 +1,9 @@
+{
+    "name": "Shini",
+    "icon": "shini",
+    "color": "#000000",
+    "bpm": 145,
+    "coopAllowed": true,
+    "opponentModeAllowed": true,
+    "composer": "TaeYai"
+}

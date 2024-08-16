@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" y="0" camx="-60" icon="tofu" isGF="false" camy="-100" iconColor="-10592674" scale="0.8" flipX="true" isPlayer="true" holdTime="6.1" gameOverChar="null" antialiasing="true" sprite="cm-tae">
+	<anim loop="false" x="29" anim="left0" fps="24" y="26" name="singLEFT" indices="[]"/>
+	<anim loop="false" x="-5" anim="down0" fps="24" y="-12" name="singDOWN" indices="[]"/>
+	<anim loop="false" x="-209" anim="up0" fps="24" y="64" name="singUP" indices="[]"/>
+	<anim loop="false" x="-252" anim="right0" fps="24" y="-24" name="singRIGHT" indices="[]"/>
+	<anim loop="false" x="-20" anim="idle0" fps="24" y="20" name="idle" indices="[]"/>
+</character>

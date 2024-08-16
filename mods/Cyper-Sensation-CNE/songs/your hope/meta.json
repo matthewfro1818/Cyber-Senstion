@@ -1,0 +1,9 @@
+{
+    "displayName": "Your Hope",
+    "bpm": 100,
+    "icon": "taeyai",
+    "color": "146,113,253",
+    "opponentModeAllowed": true,
+    "coopAllowed": true,
+    "composer": "Natah_DN"
+}
