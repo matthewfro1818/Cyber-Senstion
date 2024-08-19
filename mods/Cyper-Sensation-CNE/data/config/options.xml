@@ -16,4 +16,9 @@
 	<menu name="Dub" desc="Dub Language">
 		<checkbox id="thaiDub" name="Thai" />
 	</menu>
+
+	<menu name="BotPlay‎" desc="Bot Play‎‎">
+		<checkbox id="BotPlay‎" name="BotPlay‎" />
+	</menu>
+
 </menu>
